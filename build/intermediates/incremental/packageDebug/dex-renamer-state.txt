@@ -1,4 +1,4 @@
-#Wed Jul 12 17:56:32 EDT 2017
+#Wed Jul 12 18:37:06 EDT 2017
 base.0=D\:\\Android\\AndroidStudioProjects\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b5a0e25e9a7c8349d4f75a3b40eaeeb27e7da7b7
 renamed.1=classes.dex
 renamed.0=classes2.dex

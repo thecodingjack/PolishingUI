@@ -6,30 +6,39 @@
     density="560dpi"
     format="10"
     plugin-version="2.3.0"
-    timestamp="1499896591572"
+    timestamp="1499899023811"
     token="6528525945100683454"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="429" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="50" />
     <task
         name="verifier"
-        duration="0" />
+        duration="21" />
 
+    <artifact
+        location="D:\Android\AndroidStudioProjects\xyz-reader-starter-code-master\XYZReader\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Android\AndroidStudioProjects\xyz-reader-starter-code-master\XYZReader\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\Android\AndroidStudioProjects\xyz-reader-starter-code-master\XYZReader\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
     <artifact
         location="D:\Android\AndroidStudioProjects\xyz-reader-starter-code-master\XYZReader\build\outputs\apk\XYZReader-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1499894809785"
+        timestamp="1499897883937"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\Android\AndroidStudioProjects\xyz-reader-starter-code-master\XYZReader\build\intermediates\split-apk\debug\slices\slice_1.apk"
@@ -70,30 +79,17 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1499895209457"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="D:\Android\AndroidStudioProjects\xyz-reader-starter-code-master\XYZReader\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1499896143083"
+        timestamp="1499899023811"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="D:\Android\AndroidStudioProjects\xyz-reader-starter-code-master\XYZReader\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="D:\Android\AndroidStudioProjects\xyz-reader-starter-code-master\XYZReader\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
             location="D:\Android\AndroidStudioProjects\xyz-reader-starter-code-master\XYZReader\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1499896591572"
-        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\Android\AndroidStudioProjects\xyz-reader-starter-code-master\XYZReader\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
         <artifact
             location="D:\Android\AndroidStudioProjects\xyz-reader-starter-code-master\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="SPLIT_MAIN" />
