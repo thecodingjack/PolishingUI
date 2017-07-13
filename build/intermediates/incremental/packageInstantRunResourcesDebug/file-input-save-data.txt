@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Jul 12 21:44:39 EDT 2017
+#Wed Jul 12 23:46:41 EDT 2017
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=D\:\\Android\\AndroidStudioProjects\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_ratingbar_indicator_material.xml
