@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="MyTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="MyTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimaryDark">@color/mypurple_700</item>
         <item name="colorPrimary">@color/mypurple_500</item>
         <item name="android:navigationBarColor">@color/mypurple_700</item>
